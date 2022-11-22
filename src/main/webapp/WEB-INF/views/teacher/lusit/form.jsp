@@ -17,10 +17,10 @@
 
 <acme:form>
 	<acme:input-textbox readonly="true" code="teacher.lusit.form.label.iname" path="iname"/>
-	<acme:input-moment readonly="true" code="teacher.follow-up.form.label.instantiation-moment" path="instantiationMoment"/>
+	<acme:input-moment readonly="true" code="teacher.lusit.form.label.initial-date" path="initialDate"/>
 	<acme:input-textarea code="teacher.lusit.form.label.logo" path="logo"/>
 	<acme:input-textarea code="teacher.lusit.form.label.description" path="summary"/>
-	<acme:input-moment code="teacher.lusit.form.label.initialDate" path="initialDate"/>
+	<acme:input-moment code="teacher.lusit.form.label.initDate" path="initialDate"/>
 	<acme:input-moment code="teacher.lusit.form.label.finishDate" path="finishDate"/>
 	<acme:input-money code="teacher.lusit.form.label.budget" path="budget"/>
 	<acme:input-url code="teacher.lusit.form.label.hyperlink" path="hyperlink"/>

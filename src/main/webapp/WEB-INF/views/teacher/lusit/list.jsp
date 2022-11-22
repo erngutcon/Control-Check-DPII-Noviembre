@@ -17,5 +17,5 @@
 
 <acme:list>
 	<acme:list-column code="teacher.lusit.list.label.iname" path="iname" width="30%"/>
-	<acme:list-column code="teacher.blahblah.list.label.logo" path="logo" width="70%"/>	
+	<acme:list-column code="teacher.lusit.list.label.logo" path="logo" width="70%"/>	
 </acme:list>
